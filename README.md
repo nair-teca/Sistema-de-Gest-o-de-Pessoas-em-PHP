@@ -11,6 +11,8 @@ Permite operações básicas de cadastro, visualização, edição e remoção d
 
 ## 🚀 Funcionalidades
 
+<img src="assets/imgs/telaInicial.png" alt="Tela inicial" width="600"/>
+
 ### ➤ Cadastro de funcionários
 - Cadastro de nome, dados pessoais e outras informações.
 - Verificação automática de preenchimento obrigatório.
