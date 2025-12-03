@@ -12,9 +12,12 @@ Este projeto é um sistema simples de gestão de pessoas desenvolvido em PHP. Pe
 
 - Cadastro de funcionários (nome, dados pessoais, etc.).
 - Listagem de funcionários cadastrados.
-![Tela de cadastro](assets/imgs/cadastro.png)
+  
+<img src="assets/imgs/cadastro.png" alt="Tela de cadastro" width="400"/>
+
 - Edição / atualização de dados de funcionários.
 - Remoção de funcionários.
-![Tela de cadastro](assets/imgs/listas.png)
+  
+<img src="assets/imgs/listas.png" alt="Tela de cadastro" width="400"/>
 
 
