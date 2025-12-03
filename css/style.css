@@ -1,0 +1,93 @@
+
+body {
+    background: #a77594;
+}
+h1, h2 {
+color: #682635;
+}
+#intro{
+    padding: 0 600px;
+    justify-content: center;
+}
+#intro2{
+    padding: 0 650px;
+    justify-content: center;
+}
+
+a {
+text-decoration: none;
+color: black;
+}
+a:hover {
+text-decoration: underline;
+}
+
+/*----------------------------------- FORMULÁRIO DE CADASTRO E EDIÇÃO -------------------------------------*/
+form {
+background-color: #a15880;
+padding: 25px;
+border: 1px solid black;
+border-radius: 30px;
+box-shadow: 0 100px 150px rgba(126, 58, 110, 0.1);
+max-width: 450px;
+margin: 10px auto;
+}
+
+input, button {
+width: 100%;
+padding: 10px;
+margin-bottom: 15px;
+border-radius: 5px;
+border: 1px solid #c9c6c6;
+background-color: #87476a;
+}
+button {
+background-color: #682635;
+color: #fff;
+border: none;
+font-weight: bold;
+}
+button:hover {
+background-color: #B5397D;
+transform: scale(0.95);
+}
+
+#outro{  /*botão para voltar*/
+    width: 100px;
+    
+}
+table {
+width: 100%;
+border-collapse: collapse;
+background-color:#a15880;
+margin: 20px 0;
+}
+table th, table td {
+padding: 12px;
+border: 1px solid #ddd;
+text-align: left;
+}
+table th {
+background-color: #682635;
+color: white;
+}
+tr:hover {
+background-color: #9b9494;
+}
+
+/**-------------------------------------  CONTEÚDO EM INDEX.PHP -----------------------------------------*/
+
+.container-crud {
+padding: 60px 20px;
+}
+#centro {
+    width: fit-content; 
+    margin: 0 auto;     
+    text-align: center; 
+    padding-top: 40px;  
+}
+
+#idx{
+    border-radius: 6px;;
+    box-shadow: 1px 3px 3px black;
+}
