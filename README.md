@@ -1,4 +1,4 @@
-# Sistema de Gestão de Funcionários em PHP
+# Sistema de Gestão de Funcionários em PHP - CRUD
 
 ## 📌 Descrição
 Este projeto é um sistema simples de gestão de pessoas desenvolvido em PHP.  
