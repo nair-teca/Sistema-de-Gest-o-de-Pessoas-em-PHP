@@ -1,12 +1,5 @@
 # Sistema de Gestão de Funcionários em PHP (CRUD)
 
-## 📌 Contexto e Objetivo
-Este projeto foi desenvolvido em **contexto académico**, no âmbito do curso de Informática, com o objetivo de aplicar conceitos fundamentais de **Engenharia de Software**, nomeadamente:
-- análise de requisitos
-- estruturação de uma solução
-- implementação de funcionalidades essenciais
-- comunicação clara da solução desenvolvida
-
 O sistema responde à necessidade de **gestão básica de funcionários**, permitindo operações de criação, consulta, edição e remoção de registos (**CRUD**) através de uma interface web simples.
 
 ---
